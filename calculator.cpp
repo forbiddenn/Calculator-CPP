@@ -7,9 +7,6 @@ int main()
 {
     float number1, number2, result;
     string select;
-    bool error;
-
-    error = false;
 
     system("clear");
 
